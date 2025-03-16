@@ -54,6 +54,22 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## Navigation
+
+The application includes the following sections:
+- Home
+- Study
+- Quiz
+- Account
+- Contact
+- About
+
+You can navigate between these sections using the navigation bar at the top of the application.
+
+## Placeholder Content
+
+The current components have placeholder content and will be updated with actual features in future iterations.
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
